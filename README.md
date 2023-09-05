@@ -39,9 +39,9 @@ To run this project, it is recommended to set up a Python virtual environment. F
 Run the "main" code and you will have as output a table with the best results according to your filter, if you want to change the strategic filter just change the strategy variable inside the "main.py" code.
 
 ## 📚 New learnings
-- Uso da biblioteca Requests para coletar dados HTML do site e utilizar tais dados de forma funcional para o python (parsing).
-- Uso da BeautifulSoup para tratar os códigos em html e poder acessá-los com o python.
-- Adquiri conhecimentos sobre a biblioteca Tabulate que permite organizar dados.
-- Utilizei a biblioteca Locale para a transformação de métricas utilizadas no código para os padrões internacionais
-- Aplicação e aprimoramento de Programação Orientada a Objetos (POO)
-- Aplicação dos conhecimentos de modularização de códigos.
+- Use of the Requests library to collect HTML data from the site and use such data in a functional way for python (parsing).
+- Use of BeautifulSoup to handle the html codes and be able to access them with python.
+- I acquired knowledge about the Tabulate library that allows you to organize data.
+- I used the Locale library to transform metrics used in the code to international standards
+- Application and improvement of Object Oriented Programming (OOP)
+- Application of code modularization knowledge.
