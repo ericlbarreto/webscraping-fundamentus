@@ -1,5 +1,5 @@
 # 👨‍💻 Fundamentus WebScraping
-Fundamentus is an online system that provides financial and fundamental information on companies with shares listed on Bovespa (B3 Brazilian Stock Exchange Index). This project collects data from Real Estate Funds and applies filters that can be chosen in "main", then the data is treated and listed in a table with the best funds according to the strategic filter.
+Fundamentus is an online system that provides financial and fundamental information on companies with shares listed on Bovespa (B3 Brazilian Stock Exchange Index). This project collects data from Real Estate Funds and applies filters that can be chosen in "main.py", then the data is treated and listed in a table with the best funds according to the strategic filter.
 
 Running code:
 <h1>
@@ -21,7 +21,7 @@ To run this project, it is recommended to set up a Python virtual environment. F
 
 1. Make sure you have Python installed on your machine.
 2. Clone this repository on your computer.
-> git clone 
+> git clone https://github.com/ericlbarreto/webscraping-fundamentus.git
 3. Navigate to the project directory:
 4. Create a virtual environment.
 > python -m venv venv
@@ -36,7 +36,7 @@ To run this project, it is recommended to set up a Python virtual environment. F
 
 
 
-Run the "main" code and you will have as output a table with the best results according to your filter, if you want to change the strategic filter just change the strategy variable inside the "main" code.
+Run the "main" code and you will have as output a table with the best results according to your filter, if you want to change the strategic filter just change the strategy variable inside the "main.py" code.
 
 ## 📚 New learnings
 - Uso da biblioteca Requests para coletar dados HTML do site e utilizar tais dados de forma funcional para o python (parsing).
